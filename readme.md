@@ -17,8 +17,6 @@
 ![](https://img.shields.io/github/watchers/codemodify/systemkit-appserver?style=flat-square)
 ![](https://img.shields.io/github/forks/codemodify/systemkit-appserver?style=flat-square)
 
-### ![](https://github.com/codemodify/systemkit-appserver/raw/master/logo.png)
-
 ### The Missing Application Server in Go
 
 - If http://tomcat.apache.org provides Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies
