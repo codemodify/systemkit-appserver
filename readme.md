@@ -1,4 +1,4 @@
-# ![](https://fonts.gstatic.com/s/i/materialicons/bookmarks/v4/24px.svg) AppServer
+# ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/flare/v4/24px.svg) AppServer
 [![](https://img.shields.io/github/v/release/codemodify/systemkit-appserver?style=flat-square)](https://github.com/codemodify/systemkit-appserver/releases/latest)
 ![](https://img.shields.io/github/languages/code-size/codemodify/systemkit-appserver?style=flat-square)
 ![](https://img.shields.io/github/last-commit/codemodify/systemkit-appserver?style=flat-square)
